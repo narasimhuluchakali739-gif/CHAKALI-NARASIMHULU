@@ -1,10 +1,7 @@
 <div align="center">
 
-<img src="./assets/profile.jpg" width="180" height="180" style="border-radius: 50%; border: 4px solid #00D4FF; object-fit: cover;" alt="Chakali Narasimhulu Profile Photo" />
-
-<br/><br/>
-
-</div>
+<!-- VISITOR COUNTER -->
+![Profile Views](https://komarev.com/ghpvc/?username=narasimhuluchakali739-gif&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 <!-- ANIMATED HEADER -->
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45" alt="Wave GIF" />
