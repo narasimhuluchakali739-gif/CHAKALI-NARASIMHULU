@@ -156,31 +156,40 @@ I believe the best way to grow is to **learn, build, share, and improve every da
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Dashboard
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=narasimhuluchakali739-gif&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&count_private=true" width="49%" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=narasimhuluchakali739-gif&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=FF4500&currStreakLabel=00D4FF&sideLabels=FFFFFF&dates=AAAAAA" width="49%" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narasimhuluchakali739-gif&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&langs_count=8" width="49%" alt="Top Languages" />
+<!-- GitHub Profile Summary Cards with Dark Background -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=narasimhuluchakali739-gif&theme=github_dark" width="98%" alt="GitHub Profile Summary" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=narasimhuluchakali739-gif&theme=tokyo-night&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF4500&hide_border=true" width="98%" alt="Contribution Graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=narasimhuluchakali739-gif&theme=github_dark" width="49%" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=narasimhuluchakali739-gif&theme=github_dark&utcOffset=5.5" width="49%" alt="Productive Time" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=narasimhuluchakali739-gif&theme=github_dark" width="49%" alt="Repos Per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=narasimhuluchakali739-gif&theme=github_dark" width="49%" alt="Most Commit Language" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=narasimhuluchakali739-gif&theme=dark&hide_border=true&background=0D1117&ring=00D4FF&fire=FF4500&currStreakLabel=00D4FF&sideLabels=FFFFFF&dates=AAAAAA" width="70%" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=narasimhuluchakali739-gif&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF4500&area=true&hide_border=true" width="98%" alt="Contribution Graph" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=narasimhuluchakali739-gif&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=narasimhuluchakali739-gif&theme=onedark&no-frame=true&no-bg=false&margin-w=10&margin-h=10&row=2&column=4" width="98%" alt="GitHub Trophies" />
 
 </div>
 
